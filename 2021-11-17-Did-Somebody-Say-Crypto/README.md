@@ -26,7 +26,3 @@ Once you've collected a sufficient amount of tweets you can stop both programs u
 ## Sample Output
 
 Find sample output in twitterStreamSentimentSample.csv
-
-## Contact Me
-
-If you find any bugs, improvements or need additional help, get in contact with me at Julian Garratt on Facebook.
